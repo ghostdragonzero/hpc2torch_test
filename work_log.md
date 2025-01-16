@@ -1,3 +1,7 @@
+## 1月16日
+1. 完成vscode连接天数并记录wiki use_vscode.md
+2. 编译测试第二节课的wiki并梳理代码记录到笔记中
+
 ## 1月14日
 1. 根据说明登录天数服务器 测试运行cuda及python
 2. fork hpc2torch_test仓库切换到对应分支并编译通过  但是测试均为0
